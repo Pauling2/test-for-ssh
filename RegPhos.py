@@ -1,7 +1,7 @@
 #coding=utf8
 
 
-##对regphos文件的处理
+##对regphos文件的处理，再次传到git上
 
 with open(r'E:\python_project\original_data\RegPhos.fasta')as f:
     lst=f.readlines()[1:];sub=[];x=0
