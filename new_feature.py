@@ -1,7 +1,7 @@
 #coding=utf-8
 
 
-##本代码用于提取激酶的peptide上各位置的aa频率信息，上传到machine分支
+##本代码用于提取激酶的peptide上各位置的aa频率信息，上传到machine分支，删除该分支后再次创建分支并上传
 
 import random
 import pandas as pd
