@@ -1,2 +1,2 @@
 # learning-github
-there are some codes about the prediction of protein phosphorylation.
+there are some files used for learning github.
